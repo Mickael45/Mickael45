@@ -1,7 +1,10 @@
 # Mickael Gomes
-### FrontEnd / Fullstack dev looking for a company with talented and positive, open-minded people who are aiming at making the world a better place.
+### FrontEnd / Fullstack dev looking for a companies with talented, positive and open-minded people who are aiming at making the world a better place.
 
+⤷ I've been working for 7 years as a FrontEnd/FullStack developer mainly using JS frameworks like React.
+I always worked remotely so far for companies from many different places (USA, UK, Denmark, France, Portugal)
 
+The big thing I'm currently working on with my spare time is Data Science.
 
  <a aligh="left" href="https://www.mickael-gomes.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:mickaelgomesconsulting@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/mickael-gomes-906a62184/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
