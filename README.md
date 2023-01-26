@@ -1,5 +1,5 @@
 # Mickael Gomes
-### FrontEnd / Fullstack dev looking for a companies with talented, positive and open-minded people who are aiming at making the world a better place.
+### FrontEnd / Fullstack dev looking for companies with talented, positive and open-minded people who are aiming at making the world a better place.
 
 ⤷ I've been working for 7 years as a FrontEnd/FullStack developer mainly using JS frameworks like React.
 I always worked remotely so far for companies from many different places (USA, UK, Denmark, France, Portugal)
