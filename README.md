@@ -1,5 +1,5 @@
 # Mickael Gomes
-### Senior FullStack Developer 6+ years looking for companies with talented, positive and open-minded people who are aiming at making the world a better place.
+### Senior FullStack Developer 7+ years looking for companies with talented, positive and open-minded people who are aiming at making the world a better place.
 
 ⤷ As a remote worker I have helped companies all around the world using my expertise in the latest web technologies to improve their projects by either rebuilding them from scratch or by adding some extra sparkles on their apps.
 
