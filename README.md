@@ -39,47 +39,8 @@ Currently deep diving into AI.
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/mysql.svg" alt="MySQL" width="25" height="25"/></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/postgresql.svg" alt="PostgreSQL" width="25" height="25"/></a>
 <a href="https://www.heroku.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/heroku.svg" alt="Heroku" width="25" height="25"/></a>
-<a href="https://www.learn-c.org" target="_blank" rel="noreferrer noopener"
-  ><img
-    src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/c.svg"
-    alt="C"
-    width="25"
-    height="25"
-/></a>
-
-<a href="https://cplusplus.com" target="_blank" rel="noreferrer noopener"
-  ><img
-    src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/cplus.svg"
-    alt="C++"
-    width="25"
-    height="25"
-/></a>
-
-<a
-  href="https://learn.microsoft.com/en-us/dotnet/csharp/"
-  target="_blank"
-  rel="noreferrer noopener"
-  ><img
-    src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/csharp.svg"
-    alt="C#"
-    width="25"
-    height="25"
-/></a>
-
-<a href="" target="_blank" rel="noreferrer noopener"
-  ><img
-    src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/go.svg"
-    alt="Go"
-    width="25"
-    height="25"
-/></a>
-<a
-  href="https://r-lang.com/what-is-r-language/"
-  target="_blank"
-  rel="noreferrer noopener"
-  ><img
-    src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/r.svg"
-    alt="R"
-    width="25"
-    height="25"
-/></a>
+<a href="https://www.learn-c.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/c.svg" alt="C" width="25" height="25"/></a>
+<a href="https://cplusplus.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/cplus.svg" alt="C++" width="25" height="25"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/csharp.svg" alt="C#" width="25" height="25" /></a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/go.svg" alt="Go" width="25" height="25"/></a>
+<a href="https://r-lang.com/what-is-r-language/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/r.svg" alt="R" width="25" height="25"/></a>
