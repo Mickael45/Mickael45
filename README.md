@@ -1,7 +1,7 @@
 # Mickael Gomes
 ### Senior FullStack / Frontend Developer 8+ years looking for companies with talented, positive and open-minded people who are aiming at making the world a better place.
 
-⤷ For the past 8 years as a remote worker I have helped companies all around the world using my expertise in React / JS / TS to by either rebuilding their product from scratch or by adding some extra sparkles on their apps.
+⤷ For the past 8 years as a remote worker I have helped companies all around the world using my expertise in React / JS / TS by either rebuilding their product from scratch or by adding some extra sparkles on their apps.
 
 I like optimizing, refactoring, implementing pixel perfect designs, creating animations and data visualizations.
 
