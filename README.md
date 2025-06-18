@@ -1,11 +1,9 @@
 # Mickael Gomes
-### Senior FullStack / Frontend Remote Developer 8+ years looking for companies with talented, positive and open-minded people who are aiming at making the world a better place.
+### Senior Fullstack / Front-end leaning Engineer | AI Application Developer | Modern Web Architect  | 8+ years remote experience. I am seeking companies with talented, positive, and open-minded individuals aiming to make the world a better place.
 
-⤷ For the past 8 years as a remote worker I have helped companies all around the world using my expertise in React / JS / TS by either rebuilding their product from scratch or by adding some extra sparkles on their apps.
+⤷ For the past 8+ years as a remote worker, I've leveraged my expertise in React, Node.js, and TypeScript  to help companies worldwide. My work involves rebuilding products from scratch , optimizing application performance by up to 60% , modernizing legacy systems, and enhancing user experiences with pixel-perfect designs, animations, and data visualizations
 
-I like optimizing, refactoring, implementing pixel perfect designs, creating animations and data visualizations.
-
-Currently deep diving into AI.
+I am now actively developing multi-model AI applications and exploring AI agent orchestration, utilizing frameworks like Ollama and crewAI. I enjoy optimizing, refactoring, and crafting innovative solutions at the intersection of web technology and AI.
 
  <a aligh="left" href="https://www.mickael-gomes.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:mickaelgomesconsulting@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/mickael-gomes-906a62184/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
