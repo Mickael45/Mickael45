@@ -1,6 +1,6 @@
 # Mickael Gomes
 
-### Senior Fullstack Engineer (Frontend-leaning) | I rebuild failing platforms & ship 0-to-1 products
+### Product Engineer (React/Next.js) - 9+ years of full remote experience | I rebuild failing platforms & ship 0-to-1 products
 
 I build new products from scratch and rebuild failing ones. Frontend-first, fullstack when it counts. Nine years remote-only, working with teams across the US, UK, and France.
 
