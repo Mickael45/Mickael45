@@ -8,9 +8,9 @@ I build new products from scratch and rebuild failing ones. Frontend-first, full
 
 ⚐ Based in Corsica, France — working remotely with US and EU teams
 
-ϟ Currently working with [Mini Studio](https://www.ministudio.ai/)
+ϟ Currently working with Stealth Startup
 
-ϟ Recently worked with [Storengy — ENGIE](https://www.engie.com/)
+ϟ Recently worked with [Storengy — ENGIE](https://www.engie.com/), [Mini Studio](https://www.ministudio.ai/)
 
 ## Skills
 
