@@ -1,29 +1,32 @@
 # Mickael Gomes
 
-### Senior Frontend Engineer (React/Next.js) - 9+ years of full remote experience | I rebuild failing platforms & ship products
+### Senior Frontend / Full-Stack Engineer · React, Next.js, TypeScript, Node.js
 
-I build new products from scratch and rebuild failing ones. Frontend-first, fullstack when it counts. Nine years remote-only, working with teams across the US, UK, and France.
+Frontends owned for years, not sprints. I embed in a team as the senior frontend
+engineer or lead, take ownership of the codebase, and stay: engagements of 6 to
+24 months, full remote from France, EU hours with US overlap.
 
-📧 mickaelgomesconsulting@gmail.com · 🔗 [mickael-gomes.com](https://www.mickael-gomes.com) · 💼 [LinkedIn](https://www.linkedin.com/in/mickael-gomes-consulting/)
+Longest run: four years leading a real-time trading frontend in London, team
+grown from 0 to 10 engineers. Fastest: a production MVP live in 14 days for a
+New York AI startup. Frontend-first, full-stack when it counts: Node.js, Go,
+Python, PHP.
 
-⚐ Based in Corsica, France — working remotely with US and EU teams
+Separately, I do accessibility remediation (RGAA / EAA) and EU AI Act
+Article 50 transparency work, delivered as merged pull requests in React and
+Next.js codebases, not PDF reports.
 
-ϟ Currently working with Stealth Startup
-
-ϟ Recently worked with [Storengy — ENGIE](https://www.engie.com/), [Mini Studio](https://www.ministudio.ai/)
+📫 contact@mickael-gomes.com · [mickael-gomes.com](https://mickael-gomes.com) · [LinkedIn](https://linkedin.com/in/mickaelgomes-consulting)
+📍 France
+⚡ Available for new long-term engagements
+🕗 Recently: Storengy (ENGIE), [Mini Studio](https://www.ministudio.com/)
 
 ## Skills
+[keep existing Core Stack + Also worked with icon rows]
 
-**Core Stack**
-<p align="left">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,ts,nodejs,nextjs,turborepo,tailwind&perline=6" />
-  </a>
-</p>
+## Products
+- **JobLens AI**, Chrome extension that fixes LinkedIn job search. Live on the Chrome Web Store. [joblens-ai.com](https://joblens-ai.com)
+- **SDS Sentinel**, Windows app automating Safety Data Sheet compliance tracking. Stripe-integrated. [sdssentinel.com](https://sdssentinel.com/)
 
-**Also worked with**
-<p align="left">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=graphql,django,symfony,go,kotlin&perline=6" />
-  </a>
-</p>
+## Public artefacts
+- **Grille de trace pré-consentement** (FR, CC BY 4.0, versioned and dated): [mickael-gomes.com/fr/grilles](https://mickael-gomes.com/fr/grilles)
+- **Enforcement watch** (CNIL, EAA, AI Act, updated weekly): [mickael-gomes.com/watch](https://mickael-gomes.com/watch)
