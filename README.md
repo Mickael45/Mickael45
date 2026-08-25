@@ -16,8 +16,11 @@ Article 50 transparency work, delivered as merged pull requests in React and
 Next.js codebases, not PDF reports.
 
 📫 contact@mickael-gomes.com · [mickael-gomes.com](https://mickael-gomes.com) · [LinkedIn](https://linkedin.com/in/mickaelgomes-consulting)
+
 📍 France
+
 ⚡ Available for new long-term engagements
+
 🕗 Recently: Storengy (ENGIE), [Mini Studio](https://www.ministudio.com/)
 
 ## Skills
