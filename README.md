@@ -24,7 +24,19 @@ Next.js codebases, not PDF reports.
 🕗 Recently: Storengy (ENGIE), [Mini Studio](https://www.ministudio.com/)
 
 ## Skills
-[keep existing Core Stack + Also worked with icon rows]
+**Core Stack**
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,ts,nodejs,nextjs,turborepo,tailwind&perline=6" />
+  </a>
+</p>
+
+**Also worked with**
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=graphql,django,symfony,go,kotlin&perline=6" />
+  </a>
+</p>
 
 ## Products
 - **JobLens AI**, Chrome extension that fixes LinkedIn job search. Live on the Chrome Web Store. [joblens-ai.com](https://joblens-ai.com)
